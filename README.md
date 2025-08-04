@@ -3,6 +3,13 @@
 ### 11 de Agosto al 13 de Diciembre de 2025
 ### Licenciatura en Ciencia de Datos
 
+<img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
+
+## Horario
+
++ Lunes y miércoles 7:00 a 9:00 hrs.
++ Viernes de 8:00 a 9:00 hrs.
+
 # Presentación
 
 **Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
