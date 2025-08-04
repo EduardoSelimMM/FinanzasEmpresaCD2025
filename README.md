@@ -93,7 +93,6 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Tema 1. Viernes 5 de septiembre de 2025.
-+ Tema 2. Viernes 17 de octubre de 2025.
-+ Tema 3. Jueves 7 de noviembre de 2025.
-+ Examen final: Viernes 28 de Noviembre de 2025.
++ Parcial 1. Lunes de octubre de 2025.
++ Parcial 2. Lunes de noviembre de 2025.
++ Examen final: Miércoles 26 de noviembre de 2025.
