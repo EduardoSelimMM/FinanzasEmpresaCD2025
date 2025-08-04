@@ -1,6 +1,6 @@
 # Introducción a las Finanzas y a la empresa
 ## Semestre: 2026-1
-### 11 de Agosto al 13 de Diciembre de 2025
+### 11 de Agosto al 11 de Diciembre de 2026
 ### Licenciatura en Ciencia de Datos
 
 <img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
@@ -14,7 +14,7 @@
 
 **Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
 
-**Ayudantes:** Alexis Ismael Vela Herrera (alexis.velaherrera@ciencias.unam.mx)
+**Adjunto:** Alexis Ismael Vela Herrera (alexis.velaherrera@ciencias.unam.mx)
 
 1. Introducción a las finanzas y a la empresa
 1.1 La empresa y su organización
