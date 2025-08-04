@@ -46,3 +46,13 @@
 6.7 Operaciones bursátiles electrónicas
 6.8 Operaciones bursátiles con algoritmos
 6.9 Operaciones bursátiles de acceso directo
+
+## Bibliografía
+
+1. Brun, X., & Moreno, M. (2008). Análisis y selección de inversiones en mercados financieros. Barcelona: Profit Editorial.
+2. Castañeda González, F., & Aguirre Álvarez, J. (2000). Manual de finanzas corporativas (2a. ed.). Editorial de la Universidad de Santiago de Chile.
+3. Damodaran, A. (2011). Applied Corporate Finance: A user ́s Manual. (3a ed.). United States of America: John Wiley & Sons, Inc.
+4. Gitman, Lawrence J. y Michael Joehnk (2009). Fundamentos de inversiones, décima edición, trad. de Miguel Ángel Sánchez Carrión, México, Pearson Educación.
+5. Graham, J., Smart, S. y Megginson, W. (2011). Finanzas corporativas: el vínculo entre la teoría y lo que las empresas hacen. (3a ed). EUA: Cengage.
+6. Ross, S. A., Westerfield, R. W. y Jaffe, J. (2012). Corporate Finance. (9a ed.). EUA: McGraw Hill.
+7. Ehrhardt, M. C. y Brigham, E. F. (2017). Finanzas Corporativas. EUA: Cengage.
