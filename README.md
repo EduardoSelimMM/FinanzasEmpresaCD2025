@@ -44,15 +44,19 @@
 5.10 Otras órdenes y opcionales
 
 6. Las Inversiones
-6.1 El análisis bursátil
-6.2 Elaboración de portafolios de inversión
-6.3 La administración del riesgo financiero
-6.4 La ingeniería financiera
-6.5 Operaciones bursátiles (trading)
-6.6 Tipos de operaciones bursátiles
-6.7 Operaciones bursátiles electrónicas
-6.8 Operaciones bursátiles con algoritmos
-6.9 Operaciones bursátiles de acceso directo
+  6.1 El análisis bursátil
+  6.2 Elaboración de portafolios de inversión
+  6.3 La administración del riesgo financiero
+  6.4 La ingeniería financiera
+  6.5 Operaciones bursátiles (trading)
+  6.6 Tipos de operaciones bursátiles
+  6.7 Operaciones bursátiles electrónicas
+  6.8 Operaciones bursátiles con algoritmos
+  6.9 Operaciones bursátiles de acceso directo
+
+# CALENDARIO
+
+<img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Bibliografía
 
