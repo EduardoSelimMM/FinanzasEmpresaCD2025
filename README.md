@@ -1,6 +1,6 @@
 # Introducción a las Finanzas y a la empresa
 ## Semestre: 2026-1
-### 11 de Agosto al 11 de Diciembre de 2026
+### 11 de Agosto al 11 de Diciembre de 2025
 ### Licenciatura en Ciencia de Datos
 
 <img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
@@ -54,10 +54,6 @@
   6.8 Operaciones bursátiles con algoritmos
   6.9 Operaciones bursátiles de acceso directo
 
-# CALENDARIO
-
-<img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
-
 ## Bibliografía
 
 1. Brun, X., & Moreno, M. (2008). Análisis y selección de inversiones en mercados financieros. Barcelona: Profit Editorial.
@@ -67,3 +63,37 @@
 5. Graham, J., Smart, S. y Megginson, W. (2011). Finanzas corporativas: el vínculo entre la teoría y lo que las empresas hacen. (3a ed). EUA: Cengage.
 6. Ross, S. A., Westerfield, R. W. y Jaffe, J. (2012). Corporate Finance. (9a ed.). EUA: McGraw Hill.
 7. Ehrhardt, M. C. y Brigham, E. F. (2017). Finanzas Corporativas. EUA: Cengage.
+
+# 🎖 EVALUACIÓN 🎖
+El curso será evaluado de la siguiente manera:
+
++ Tareas de casa grupales: En equipos de a los más 4 integrantes y cuyo valor será el 30\% de la calificación final. 8 tareas aproximadamente.
++ Laboratorios/Prácticas/Proyectos de R: En equipos de a los más 4 integrantes y cuyo valor será el 10\% de la calificación final. 2 prácticas aproximadamente.
++ Dos exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 30\% de la calificación final.
++ Un examen final: De manera individual en el salón de clases, cuyo valor es del 30\% de la calificación final
++ Habrá dos reposiciones y un examen final (el mismo día).
++ La escala de calificaciones en la siguiente:
+[0,6)-5, [6, 6.6)-6, [6.6, 7.6)-7, [7.6, 8,6)-8, [8.6, 9.6)-9 y [9.6, 10)-10
++ No se cambia ninguna calificación por NP. No hay renuncias a calificaciones.
+
+# ACLARACIONES
+
++ Las sesiones requieren asistencia plena, no sólo física.
++ Bajo ningún motivo se aceptarán tareas después de la fecha fijada de entrega.
++ No se realizarán exámenes extemporáneos por ningún motivo.
++ No se permiten teléfonos móviles encendidos y en consecuencia, queda prohibido salir del salón para contestar llamadas. En caso de hacerlo se retirará lo que resta de dicha sesión.
++ No se permite la entrada después de la hora más 10 minutos
+
+# FORMA DE ENTREGA DE LAS TAREAS:
++ Se debe respetar el orden de las preguntas, y si no se contesta alguna, se debe escribir la pregunta y especificar que no se contestó. En caso de no ser así, no se revisará dicha tarea, obteniendo la calificación de cero en dicha tarea.
++ Limpieza y letra legible. Preferentemente en LaTeX o RMarkdown
+
+# CALENDARIO
+
+<img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
+
+## Exámenes Parciales
++ Tema 1. Viernes 5 de septiembre de 2025.
++ Tema 2. Viernes 17 de octubre de 2025.
++ Tema 3. Jueves 7 de noviembre de 2025.
++ Examen final: Viernes 28 de Noviembre de 2025.
