@@ -67,10 +67,11 @@
 # 🎖 EVALUACIÓN 🎖
 El curso será evaluado de la siguiente manera:
 
-+ Tareas de casa grupales: En equipos de a los más 4 integrantes y cuyo valor será el 30\% de la calificación final. 8 tareas aproximadamente.
++ Tareas de casa grupales: En equipos de a los más 4 integrantes y cuyo valor será el 20\% de la calificación final. 8 tareas aproximadamente.
 + Laboratorios/Prácticas/Proyectos de R: En equipos de a los más 4 integrantes y cuyo valor será el 10\% de la calificación final. 2 prácticas aproximadamente.
 + Dos exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 30\% de la calificación final.
 + Un examen final: De manera individual en el salón de clases, cuyo valor es del 30\% de la calificación final
++ Asistencia plena: 10\%
 + Habrá dos reposiciones y un examen final (el mismo día).
 + La escala de calificaciones en la siguiente:
 [0,6)-5, [6, 6.6)-6, [6.6, 7.6)-7, [7.6, 8,6)-8, [8.6, 9.6)-9 y [9.6, 10)-10
