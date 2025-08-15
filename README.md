@@ -67,12 +67,10 @@
 # 🎖 EVALUACIÓN 🎖
 El curso será evaluado de la siguiente manera:
 
-+ Tareas de casa grupales: En equipos de a los más 4 integrantes y cuyo valor será el 20\% de la calificación final. 8 tareas aproximadamente.
-+ Laboratorios/Prácticas/Proyectos de R: En equipos de a los más 4 integrantes y cuyo valor será el 10\% de la calificación final. 2 prácticas aproximadamente.
-+ Dos exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 30\% de la calificación final.
-+ Un examen final: De manera individual en el salón de clases, cuyo valor es del 30\% de la calificación final
-+ Asistencia plena: 10\%
-+ Habrá dos reposiciones y un examen final (el mismo día).
++ Dos exámenes parciales: De manera individual en el salón de clases, cuyo valor es del 60\% de la calificación final.
++ Un examen final: De manera individual en el salón de clases, cuyo valor es del 20\% de la calificación final
++ Proyecto final: En equipos de a lo más 3 personas, cuyo valor es del 20\%
++ Es necesaria asistencia de al menos el 85\% para poder presentar las evaluaciones.
 + La escala de calificaciones en la siguiente:
 [0,6)-5, [6, 6.6)-6, [6.6, 7.6)-7, [7.6, 8,6)-8, [8.6, 9.6)-9 y [9.6, 10)-10
 + No se cambia ninguna calificación por NP. No hay renuncias a calificaciones.
@@ -83,7 +81,7 @@ El curso será evaluado de la siguiente manera:
 + Bajo ningún motivo se aceptarán tareas después de la fecha fijada de entrega.
 + No se realizarán exámenes extemporáneos por ningún motivo.
 + No se permiten teléfonos móviles encendidos y en consecuencia, queda prohibido salir del salón para contestar llamadas. En caso de hacerlo se retirará lo que resta de dicha sesión.
-+ No se permite la entrada después de la hora más 10 minutos
++ No se permite la entrada después de la hora más 15 minutos
 
 # FORMA DE ENTREGA DE LAS TAREAS:
 + Se debe respetar el orden de las preguntas, y si no se contesta alguna, se debe escribir la pregunta y especificar que no se contestó. En caso de no ser así, no se revisará dicha tarea, obteniendo la calificación de cero en dicha tarea.
@@ -95,5 +93,5 @@ El curso será evaluado de la siguiente manera:
 
 ## Exámenes Parciales
 + Parcial 1. Lunes de octubre de 2025.
-+ Parcial 2. Lunes de noviembre de 2025.
++ Parcial 2: Teoría de Portafolios. Viernes de noviembre de 2025.
 + Examen final: Miércoles 26 de noviembre de 2025.
