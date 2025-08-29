@@ -92,6 +92,6 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Parcial 1. Lunes de octubre de 2025.
-+ Parcial 2: Teoría de Portafolios. Viernes de noviembre de 2025.
-+ Examen final: Miércoles 26 de noviembre de 2025.
++ Parcial 1 (30\%). Profesor titular. Lunes 6 de octubre de 2025.
++ Parcial 2 (30\%): Profesor adjunto (Teoría de Portafolios). Viernes 28 de noviembre de 2025.
++ Examen final (20\%): Miércoles 26 de noviembre de 2025.
